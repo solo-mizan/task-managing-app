@@ -5,12 +5,14 @@ import TaskBoard from "./task-board/task-board";
 
 function App() {
   return (
-    <div className="body">
+    <>
       <Header />
+      <div className="flex flex-col justify-center items-center">
       <HeroSection />
       <TaskBoard />
+      </div>
       <Footer />
-    </div>
+    </>
   );
 }
 
