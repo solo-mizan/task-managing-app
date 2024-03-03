@@ -50,25 +50,24 @@ export default function TaskList({tasks}){
               <td>Integration API</td>
               <td>
                 <div>
-                  Connect an existing API to a third-party database using secure
-                  methods and handle data exchange efficiently.
+                  Build an interactive task management web app for varsity Software Development Lab - 2.
                 </div>
               </td>
               <td>
                 <ul className="flex justify-center gap-1.5 flex-wrap">
                   <li>
                     <span className="inline-block h-5 whitespace-nowrap rounded-[45px] bg-[#00D991A1] px-2.5 text-sm capitalize text-[#F4F5F6]">
-                      Web
+                      MongoDB
                     </span>
                   </li>
                   <li>
                     <span className="inline-block h-5 whitespace-nowrap rounded-[45px] bg-[#1C92FFB0] px-2.5 text-sm capitalize text-[#F4F5F6]">
-                      Python
+                      Javascript
                     </span>
                   </li>
                   <li>
                     <span className="inline-block h-5 whitespace-nowrap rounded-[45px] bg-[#FE1A1AB5] px-2.5 text-sm capitalize text-[#F4F5F6]">
-                      API
+                      React
                     </span>
                   </li>
                 </ul>
